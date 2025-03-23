@@ -18,8 +18,7 @@ This project uses reactJS and PhaserJS (game animations) for the frontend and ca
 For the gameplay design, we’ve incorporated game designs from many trending traditional games, and the game is designed with the Public Goods values in mind.
 
 ## Contract Details
-Address - 0x0A281C048D3E671659673CfbB09a46aF52aBedB9
+- Address - 0x0A281C048D3E671659673CfbB09a46aF52aBedB9
 
-
-Link - https://zksync-sepolia.blockscout.com/address/0x0A281C048D3E671659673CfbB09a46aF52aBedB9
+- Link - https://zksync-sepolia.blockscout.com/address/0x0A281C048D3E671659673CfbB09a46aF52aBedB9
 
