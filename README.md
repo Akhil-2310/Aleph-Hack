@@ -24,3 +24,5 @@ For the gameplay design, we’ve incorporated game designs from many trending tr
 
 - Farm - https://zksync-sepolia.blockscout.com/tx/0x8c45b8ec44ab6c5ee406606756204d3dba2963bf1168628bfbd26019f50c7d2d
 
+- Attack - https://zksync-sepolia.blockscout.com/tx/0x4cd53910a04dd17352080418ed4a61c9edf3bebd99daed12ebd255c0a5961878
+
