@@ -19,5 +19,7 @@ For the gameplay design, we’ve incorporated game designs from many trending tr
 
 ## Contract Details
 Address - 0x0A281C048D3E671659673CfbB09a46aF52aBedB9
+
+
 Link - https://zksync-sepolia.blockscout.com/address/0x0A281C048D3E671659673CfbB09a46aF52aBedB9
 
